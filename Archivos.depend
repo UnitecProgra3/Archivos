@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1400090288 source:/home/turupawn/Projects/Codeblocks/Clases/Archivos/main.cpp
+	<iostream>
+	<fstream>
+
